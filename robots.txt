@@ -1,0 +1,3 @@
+# Koncepcyjna wersja v2 — PFL Group. Nie indeksować.
+User-agent: *
+Disallow: /

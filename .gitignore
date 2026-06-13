@@ -1,0 +1,13 @@
+# systemowe
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# edytory
+.vscode/
+.idea/
+
+# podgląd/scratch
+_preview*.html
+node_modules/
+*.log
